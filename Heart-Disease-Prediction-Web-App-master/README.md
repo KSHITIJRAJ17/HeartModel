@@ -42,7 +42,4 @@ Use this for prediction for model and to show the output
  
 ### 7.Integrating web application with machine learning backend.
 
-### 8. Deployment on Heroku
-
-https://heartdeseaseprediction.herokuapp.com/
 
